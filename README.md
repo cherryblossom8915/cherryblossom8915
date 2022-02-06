@@ -3,7 +3,7 @@ jeanarino/jeanarino is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello there stranger 👋
+# Welcome to my Github page 👋
 
 ## Who am I?
 
@@ -35,4 +35,5 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 ## How can I contact you?
 
 You can send me a direct message on Discord at Raspberry#5310
+
 If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw)
